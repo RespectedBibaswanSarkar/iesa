@@ -1,0 +1,8 @@
+__pycache__/
+.env
+*.h5
+*.onnx
+*.tflite
+models/trained_model/*
+models/quantized_model/*
+models/edge_model/*
