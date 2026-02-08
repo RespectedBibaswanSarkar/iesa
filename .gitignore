@@ -6,3 +6,4 @@ __pycache__/
 models/trained_model/*
 models/quantized_model/*
 models/edge_model/*
+!dataset_final.7z
